@@ -1,0 +1,6 @@
+SOUTH_TOWER = 'https://s1-bos.liveatc.net/klax4?nocache=2021072311393840643'
+NORTH_TOWER = 'https://s1-fmt2.liveatc.net/klax3?nocache=2021072312044344869'
+SOUTH_GROUND = 'https://s1-bos.liveatc.net/klax5?nocache=2021072312073574644'
+NORTH_GROUND = 'https://s1-fmt2.liveatc.net/klax1?nocache=2021072312071728749'
+SOUTH_FINAL_APP = 'https://s1-bos.liveatc.net/klax4n_app_fin_s?nocache=2021072312065723342'
+NORTH_FINAL_APP = 'https://s1-bos.liveatc.net/klax4n_app_fin_n?nocache=2021072312061858151'
