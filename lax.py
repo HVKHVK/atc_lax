@@ -86,7 +86,7 @@ while True:
                 pygame.display.flip()
             if event.key == pygame.K_n:
                 pygame.draw.rect(screen, (0, 0, 0), pygame.Rect(260, 270, 50, 20))
-                if not s5.is_playing():
+                if not s6.is_playing():
                     s6.play()
                     time.sleep(1)
                     screen.blit(myfont.render('On', False, (250, 0, 250)), (260, 280))
